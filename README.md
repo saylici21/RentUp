@@ -1,6 +1,6 @@
 
 
-[see the Demo](https://realestateproject-two.vercel.app/json)
+[see the Demo](https://realestateproject-two.vercel.app/)
 
 
 
