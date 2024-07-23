@@ -1,6 +1,7 @@
 
 
-[see the Demo](https://realestateproject-two.vercel.app/)
+[see the Demo online](https://realestateproject-two.vercel.app/)
+[download from git hub] (https://github.com/saylici21/RentUp.git)
 
 
 
